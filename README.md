@@ -128,6 +128,16 @@ npm run dev
 
 ---
 
+## Performance and Load  using Artillery load testing
+
+ <img width="861" height="728" alt="Screenshot 2026-03-09 231217" src="https://github.com/user-attachments/assets/7632c0bc-2740-4a7c-be14-8379a9f629f5" />
+
+
+Successfully tested with hundreds of
+simultaneous connections
+
+---
+
 ## What I Learned
 
 - Built and managed **RESTful APIs** with CRUD operations  
