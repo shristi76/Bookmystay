@@ -29,8 +29,14 @@ A **backend system** for a property rental application where hosts can manage li
 ## LIVE API
 
  https://bookmystay-1-z312.onrender.com/
+
+ 
  
 ---
+
+## API DOCS
+
+https://documenter.getpostman.com/view/46688304/2sBXqRibmC
 
 ## Installation
 
