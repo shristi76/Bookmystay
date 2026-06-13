@@ -94,6 +94,16 @@ npm run dev
 
 ---
 
+## Architecture Diagram
+
+<img width="5641" height="3445" alt="deepseek_mermaid_20260613_e5c857" src="https://github.com/user-attachments/assets/caa59d7c-dfef-4d1a-815e-7f046fa18536" />
+
+
+---
+
+
+
+
 
 ## Demo
 
