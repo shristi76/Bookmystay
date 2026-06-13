@@ -156,7 +156,9 @@ npm run dev
 - Tested APIs using tools like **Thunder Client and Postman**
 ---
 
-## Thank You
+## License
+
+This project is licensed under the MIT License.
 
 
 
